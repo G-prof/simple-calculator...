@@ -1,0 +1,159 @@
+body{
+		padding: 0px;
+		margin: 0px;
+		background: steelblue;
+		box-sizing: border-box;
+	}
+	#container{
+			width: 50%;
+			margin-right: auto;
+			margin-left: auto;
+	}
+	#screen{
+			text-align: right;
+			cursor: not-allowed;
+			width: 80%;
+			border-radius: 10px;
+			font-weight: 600;
+			padding:20px;
+			margin-bottom: 20px;
+			margin-top: 20px;
+		}
+		table{
+			border-collapse: collapse;
+			text-align: center;
+			margin: auto;
+			border:5px solid #ff9900 ;
+			width:50%;
+			box-shadow: 0 0 9px 0px white;
+			margin-right: auto;
+			margin-left: auto;
+			margin-top:20px;
+			background: white; 
+			color: steelblue;
+		}
+		td{
+			cursor: pointer;
+			padding: 20px;
+			border-radius: 10px;
+
+		}
+		#cancel:hover{
+			background: steelblue;
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#one:hover{
+			background: violet;
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}#del:hover{
+			background: #660000;
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}#modulus:hover{
+			background: rgb(255, 255, 0);
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}#two:hover{
+			background: #00ffff;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}#three:hover{
+			background: hsl(45, 100%, 50%);	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}#divide:hover{
+			background: rgb(255, 0, 128);	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}#multiply:hover{
+			background:	#ff0040 ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}#four:hover{
+			background:#00bfff ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#five:hover{
+			background:#40ff00 ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#six:hover{
+			background:#ff4000 ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#seven:hover{
+			background:#408080 ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#eight:hover{
+			background:#999900;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#nine:hover{
+			background:#cc0066;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#dot:hover{
+			background: #660033;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#zero:hover{
+			background: #999966 ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#equal:hover{
+			background: #737373 ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#add:hover{
+			background:  #6600ff ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+		#subtract:hover{
+			background: #ff9900  ;	
+			color:white;
+			border:2px dotted white;
+			transition:0.8s; 
+		}
+
+
+
+		tr{
+			background: white;
+			color: steelblue;
+			font-size: 20px;
+			
+		}
+		tr{
+			margin-bottom:20px;
+		}
