@@ -6,8 +6,7 @@ body{
 	}
 	#container{
 			width: 50%;
-			margin-right: auto;
-			margin-left: auto;
+			margin: auto;
 	}
 	#screen{
 			text-align: right;
